@@ -1,24 +1,9 @@
-# README
+# Ticket sales app created with Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicativo para venda de ingressos criado com Rails.
 
-Things you may want to cover:
+* Ruby version: 3.1.2
+* Rails version: 7.0.2
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* How to run:  First download the app, then go to the "tickets" folder, then run the command "$ Rails s " in the terminal to upload the server. then go to the: http://localhost:3000/tickets
